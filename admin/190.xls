@@ -1,0 +1,138 @@
+<html dir='ltr' lang='en'>
+<!-- Copyright (c) 2000-2005 PeopleSoft, Inc.  All Rights Reserved. -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><body><table border='1' cellpadding='3' cellspacing='0'>
+<tr>
+<th>ID Number</th><th>Student Preferred Name</th><th>FERPA</th><th>Add/Drop Date</th><th>Current Email Address</th><th>Grading Basis</th><th>Units</th><th>Primary Program</th><th>Student Level</th><th>Student Photo</th></tr>
+<tr>
+<td>=&quot;2249121&quot;</td>
+<td>Campbell,Jack</td>
+<td>=&quot;N&quot;</td>
+<td>06/12/2007</td>
+<td>jcamp@ku.edu</td>
+<td>=&quot;G01&quot;</td>
+<td>1.00</td>
+<td>Liberal Arts Undergraduate</td>
+<td>=&quot;Freshman&quot;</td>
+<td>Student Photo</td>
+<tr>
+<td>=&quot;2203873&quot;</td>
+<td>Dowell,Ryan Edward</td>
+<td>=&quot;N&quot;</td>
+<td>07/06/2007</td>
+<td>rydo88@ku.edu</td>
+<td>=&quot;G01&quot;</td>
+<td>1.00</td>
+<td>Liberal Arts Undergraduate</td>
+<td>=&quot;Freshman&quot;</td>
+<td>Student Photo</td>
+<tr>
+<td>=&quot;2249221&quot;</td>
+<td>Dunson,Michelle Lynn</td>
+<td>=&quot;N&quot;</td>
+<td>06/19/2007</td>
+<td>shelly88@ku.edu</td>
+<td>=&quot;G01&quot;</td>
+<td>1.00</td>
+<td>Engineering Undergraduate</td>
+<td>=&quot;Freshman&quot;</td>
+<td>Student Photo</td>
+<tr>
+<td>=&quot;2342383&quot;</td>
+<td>Graebner,Annie</td>
+<td>=&quot;N&quot;</td>
+<td>07/17/2007</td>
+<td>oladon@ku.edu</td>
+<td>=&quot;G01&quot;</td>
+<td>1.00</td>
+<td>Liberal Arts Undergraduate</td>
+<td>=&quot;Freshman&quot;</td>
+<td>Student Photo</td>
+<tr>
+<td>=&quot;2150151&quot;</td>
+<td>Hagen,Tim</td>
+<td>=&quot;N&quot;</td>
+<td>06/15/2007</td>
+<td>thagen@ku.edu</td>
+<td>=&quot;G01&quot;</td>
+<td>1.00</td>
+<td>Liberal Arts Undergraduate</td>
+<td>=&quot;Freshman&quot;</td>
+<td>Student Photo</td>
+<tr>
+<td>=&quot;2273334&quot;</td>
+<td>Kuefler,Ruth M</td>
+<td>=&quot;N&quot;</td>
+<td>07/03/2007</td>
+<td>rkuefler@ku.edu</td>
+<td>=&quot;G01&quot;</td>
+<td>1.00</td>
+<td>Fine Arts Undergraduate</td>
+<td>=&quot;Freshman&quot;</td>
+<td>Student Photo</td>
+<tr>
+<td>=&quot;2205406&quot;</td>
+<td>Mark,Josh</td>
+<td>=&quot;N&quot;</td>
+<td>06/22/2007</td>
+<td>joshmark@ku.edu</td>
+<td>=&quot;G01&quot;</td>
+<td>1.00</td>
+<td>Liberal Arts Undergraduate</td>
+<td>=&quot;Freshman&quot;</td>
+<td>Student Photo</td>
+<tr>
+<td>=&quot;2204450&quot;</td>
+<td>McDaniel,T.J.</td>
+<td>=&quot;N&quot;</td>
+<td>07/06/2007</td>
+<td>tgiathan@ku.edu</td>
+<td>=&quot;G01&quot;</td>
+<td>1.00</td>
+<td>Liberal Arts Undergraduate</td>
+<td>=&quot;Freshman&quot;</td>
+<td>Student Photo</td>
+<tr>
+<td>=&quot;2249724&quot;</td>
+<td>Sackuvich,Katie</td>
+<td>=&quot;N&quot;</td>
+<td>07/03/2007</td>
+<td>katy07@ku.edu</td>
+<td>=&quot;G01&quot;</td>
+<td>1.00</td>
+<td>Liberal Arts Undergraduate</td>
+<td>=&quot;Freshman&quot;</td>
+<td>Student Photo</td>
+<tr>
+<td>=&quot;2061149&quot;</td>
+<td>Smith,Angela</td>
+<td>=&quot;N&quot;</td>
+<td>07/06/2007</td>
+<td>angela13@ku.edu</td>
+<td>=&quot;G01&quot;</td>
+<td>1.00</td>
+<td>Engineering Undergraduate</td>
+<td>=&quot;Freshman&quot;</td>
+<td>Student Photo</td>
+<tr>
+<td>=&quot;2204912&quot;</td>
+<td>Tannenwald,Ben Bordy</td>
+<td>=&quot;N&quot;</td>
+<td>06/19/2007</td>
+<td>benjtann@ku.edu</td>
+<td>=&quot;G01&quot;</td>
+<td>1.00</td>
+<td>Engineering Undergraduate</td>
+<td>=&quot;Freshman&quot;</td>
+<td>Student Photo</td>
+<tr>
+<td>=&quot;2205027&quot;</td>
+<td>Whitaker,Jacob B</td>
+<td>=&quot;N&quot;</td>
+<td>06/19/2007</td>
+<td>jakewhit@ku.edu</td>
+<td>=&quot;G01&quot;</td>
+<td>1.00</td>
+<td>Engineering Undergraduate</td>
+<td>=&quot;Freshman&quot;</td>
+<td>Student Photo</td>
+</table></body></html>

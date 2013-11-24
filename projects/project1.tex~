@@ -1,0 +1,109 @@
+\documentclass{tufte-handout}
+
+\usepackage{amsmath}
+\usepackage{graphicx}
+\setkeys{Gin}{width=\linewidth,totalheight=\textheight,keepaspectratio}
+\usepackage{url} %% blows things up quite nicely
+\usepackage{alltt}
+\usepackage{semantic}
+\usepackage{mcaption}
+\bibliographystyle{abbrvnat}
+
+\newtheorem{exercise}{Exercise}
+
+\title{EECS 755 - Systems Requirements Modeling}
+\author{Perry Alexander, palexand@ku.edu}
+\date{Fall 2011}
+
+\begin{document}
+
+\maketitle
+
+The objective of this homework is twofold.  First, you will do some
+simple proofs in PVS using propositional logic and first-order logic.
+This is to help get you comfortable using the tool on some simple
+examples.  Second, you will define and verify a simple theory of
+boxes.  This will help get you started thinking about how to define
+theories and how theories impact your ability to do verification.
+
+\begin{exercise}
+  Use PVS to prove the following theorems using only elimination,
+  introduction and assumption rules.\footnote{Use \textsf{flatten} and
+    \textsf{split} in sequence.}  In particular, do not use
+  \texttt{simp} or \texttt{auto}:
+  
+  \begin{enumerate}
+  \item $A \wedge A => A$
+  \item $A \vee A => A$
+  \item $A => B |- \neg A \vee B$
+  \item $A => B |- \neg B => \neg A$
+  \item $A => B <=> ~A => ~B$
+  \item $A \vee B <=> B \vee A$
+  \item $(A \vee B) \vee C <=> A \vee (B \vee C)$
+  \item $A=>B\wedge B=>C |- A=>C$
+  \end{enumerate}
+\end{exercise}
+
+\begin{exercise}
+  Use PVS to prove the following theorems using only elimination,
+  introduction, assumption and quantifier rules.\footnote{Use
+    \textsf{flatten}, \textsf{split}, and \textsf{skolem} in
+    sequence.}  In particular, do not use \texttt{simp} or
+  \texttt{auto}:
+  
+  \begin{enumerate}
+  \item $\forall x \cdot P(x) \wedge R(x) => \forall x \cdot P(x)$
+  \item $P(a) => \exists x \cdot P(x)$
+  \item $\forall x \cdot (P(x) => R(x)) \wedge (R(x) => S(x)) |-
+    \forall x \cdot (P(x) => S(x))$
+  \item $\neg\forall x \cdot P(x) <=> \exists x \cdot \neg P(x)$
+  \item $\forall x \cdot (P(x) => R(x)) \wedge (R(x) => P(x)) |-
+    \forall x \cdot P(x) <=> R(x)$
+  \end{enumerate}
+\end{exercise}
+
+\begin{exercise}
+  Write a PVS theory of boxes that defines basic stacking
+  properties.  You are to define several predicts and a type, box,
+  that will allow you to verify certain properties.  Define the
+  following:
+  
+  \begin{enumerate}
+    \itemsep=0pt\parskip=0pt
+  \item A type for boxes
+  \item Boxes $A$, $B$, $C$, $D$ and $T$
+  \item $On(b_1,b_2)$ -- True when $b_1$ is on $b_2$
+  \item $Above(b_1,b_2)$ -- True when $b_1$ is on or above $b_2$
+  \item $Top(b_1)$ -- True when no box is on $b_1$
+  \item An axiom defining the relationship between $On$ and $Above$
+  \item An axiom defining the transitivity of $Above$
+  \item An axiom defining that a box cannot be above itself
+  \item An axiom stating that $T$ can be above nothing
+  \end{enumerate}
+\end{exercise}
+
+\begin{exercise}  
+  Using your theory from problem 3, define the following axioms:
+  
+  \begin{enumerate}
+    \itemsep=0pt\parskip=0pt
+  \item $A$ is on the table
+  \item $B$ is on $A$
+  \item $C$ is on $B$
+  \item $D$ is on $C$
+  \end{enumerate}
+
+  \noindent and prove the following properties:
+
+  \begin{enumerate}
+    \itemsep=0pt\parskip=0pt
+  \item $B$ is above $A$
+  \item $C$ is above $A$
+  \item $D$ is above $A$
+  \item $T$ is not on anything
+  \item No box is on itself
+  \item $D$ is the top box
+  \end{enumerate}
+\end{exercise}  
+  
+\end{document}
