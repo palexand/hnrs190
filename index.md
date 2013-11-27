@@ -1,5 +1,6 @@
 ---
-layout: bare
+layout: frontpage
+titie: HNRS 190
 ---
 
 # HNRS 190 - Freshman Honors Tutorial
