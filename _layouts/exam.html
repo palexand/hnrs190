@@ -3,32 +3,32 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>{{ site.course }} by Perry Alexander</title>
-
+    <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+    {% if page.description %}
+    <meta name="description" content="{{ page.description }}" />
+    {% endif %}
     <link rel="stylesheet" href="{{ site.baseurl }}/stylesheets/styles.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/stylesheets/pygment_trac.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+
   </head>
   <body>
     <div class="wrapper">
       <header>
         <h1>{{ site.course }}</h1>
         <p>{{ site.title }}</p>
-
 	<ul>
-    	{% for post in site.categories.blog limit:10 %}
-    	<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    	{% endfor %}
-    	</ul>
+	{% for post in site.categories.exam reversed %}
+	<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+	{% endfor %}
+	</ul>
 
 	<a href="{{ site.baseurl }}index.html">Index</a><br>
 	<a href="{{ site.baseurl }}blog.html">Blog</a><br>
       </header>
-      <section>
-      {{ content }}
+      <section> 
+        <h1>{{ page.title }}</h1>
+        {{ content }}
       </section>
       <footer>
         {% include footer.html %}
