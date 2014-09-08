@@ -48,7 +48,7 @@ system.  I will not accept paper listings.
 <ul>
 {% for post in site.categories.project reversed %}
 <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
- - Due: {{ post.when }} 11:59pm</li>
+ - Due: {{ post.when }} 1:00pm</li>
 {% endfor %}
 </ul>
 
