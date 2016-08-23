@@ -134,7 +134,7 @@ The course structure is quite loose and we will tend to go wherever our discussi
 
 * Formal Systems and Hilbert's Problems
 * Propositional and Predicate Calculus
-  * Goedel's Inconsistency Result
-  * Language and Computing
-  * Turing, Turing Machines and Halting
-  * Turing and Codebreaking
+* Goedel's Inconsistency Result
+* Language and Computing
+* Turing, Turing Machines and Halting
+* Turing and Codebreaking
