@@ -7,9 +7,9 @@ titie: HNRS 190
 
 The Freshman Honors Tutorial is a one hour class introducing freshman honors program students to research and KU.  My section looks at the early days of computing focusing on how computing came to be and why. We look at work by the major early computing scholars and put their work in the context of World War II.  We also look a that the limitations of computing and what we know about what can and cannot be computed mechanically. 
 
-# Class Information 
+# Class Information
 
-----
+---- 
 
 Room and Time
 : {{ site.where }}
@@ -19,12 +19,12 @@ Prerequisites
 : Acceptance to the KU Honors Program
 
 Instructor Information
-: [Dr. Perry Alexander](http://palexand.github.io)
+: [Dr. Perry Alexander][1]
 : Office Hours: {{ site.ohrs }} in 2022 Eaton Hall, or by appointment
 : Office: 2022 Eaton Hall / 208 Nichols Hall 
-: Phone: 4-8833 / 4-7741 
-: Web: [http://perry.alexander.name](http://perry.alexander.name)
-: Email: <palexand@ku.edu>
+: Phone: 785-864-7741 
+: Web: [http://perry.alexander.name][2]
+: Email: [palexand@ku.edu][3]
 
 Textbooks
 : None
@@ -48,14 +48,14 @@ system.  I will not accept paper listings.
 
 # Web Repository
 
-----
+---- 
 
 All project and homework assignments, exams, solutions and handouts you receive in class are linked to the
-[HNRS 190 homepage](http://perry.alexander.name/hnrs190/).  In general, I will not distribute hard copies of assignments in class. All documents will be published using the Adobe PDF standard.
+[HNRS 190 homepage][4].  In general, I will not distribute hard copies of assignments in class. All documents will be published using the Adobe PDF standard.
 
 # Classroom Policies
 
-----
+---- 
 
 #### The Three Commandments
 
@@ -83,7 +83,7 @@ I encourage you to use email to contact me. I am logged in whenever I am working
 
 #### Blog
 
-The course blog is available on the [website](blog.html). I will post
+The course blog is available on the [website][5]. I will post
 late-breaking news about projects, homework and class administration on the blog. Check the website and blog frequently, particularly around project due dates and exams.
 
 #### Phone
@@ -110,9 +110,9 @@ As a policy, I do not extend due dates of homework and projects. If I choose to 
 
 Ties are expressly forbidden in my classroom.  If you wear one you will be taunted mercilessly.  Exceptions are made for bow ties which we all know are cool.
 
-# Grading 
+# Grading
 
-----
+---- 
 
 Grades are assigned on a standard 10 point scale:
 
@@ -128,7 +128,7 @@ Classroom tasks are weighted using the following scale
 
 # Topics
 
-----
+---- 
 
 The course structure is quite loose and we will tend to go wherever our discussions take us.
 
@@ -138,3 +138,9 @@ The course structure is quite loose and we will tend to go wherever our discussi
 * Language and Computing
 * Turing, Turing Machines and Halting
 * Turing and Codebreaking
+
+[1]:	http://palexand.github.io
+[2]:	http://perry.alexander.name
+[3]:	mailto:palexand@ku.edu
+[4]:	http://perry.alexander.name/hnrs190/
+[5]:	blog.html
