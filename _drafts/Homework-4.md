@@ -1,7 +1,7 @@
 ---
 layout: project
 category: project
-title: Homework 3
+title: Homework 4
 when: October 11
 ---
 1. Use online and library resource to find out who Alonzo Church was.  What did he contribute to mathematics and computing?  In no more than 3 paragraphs, compare and contrast his work with that of Alan Turing.  Turn this in on Blackboard.
