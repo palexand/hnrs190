@@ -4,8 +4,11 @@ category: project
 title: Homework 0
 when: August 30
 ---
-1. Use online and library resource to find out who Alan Turing was.  What were his contributions to computer science, World War II, and mathematics?  What were the social and political impacts of his life?
-2. Come by and visit me in my office.  (This does not have to be completed now, just sometime during the semester.)
+1. Use online and library resource to find out who David Hilbert was.
+   What were his contributions to computer science and mathematics?
+   What did he have to do with computer science? 
+2. Come by and visit me in my office.  (This does not have to be
+   completed now, just sometime during the semester.) 
 
 > A just machine to make big decisions, 
 > programmed by fella's with compassion and vision, 
