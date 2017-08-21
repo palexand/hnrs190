@@ -1,7 +1,10 @@
-baseurl: http://palexand.github.io/hnrs190/
+baseurl: http://perry.alexander.name/hnrs190/
 title: HNRS 190
 subtitle: Freshman Honors Tutorial
-where: 250 Nichols Hall
+where: 108 Nunemaker Center
 when: 4:00-5:15 T
 ohrs: 10:45-12:00 TR
 markdown: kramdown
+name: HNRS 190
+description: HNRS 190 - A Just Machine at The Univ of Kansas
+url: http://perry.alexander.name/hnrs190
