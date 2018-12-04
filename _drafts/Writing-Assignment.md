@@ -22,4 +22,4 @@ You may propose another topic if you are so interested.
 
 Note that 3-5 pages is a serious restriction.  Not one word shorter or longer!
 
-I have created a submission page on Blackboard if you want to use it.  Altermatively, you can email me your final paper.
+I will create a submission page on Blackboard if you want to use it.  Altermatively, you can email me your final paper.
