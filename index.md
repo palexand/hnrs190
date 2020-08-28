@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-titie: HNRS 190
+title: HNRS 190
 ---
 
 # HNRS 190 - Freshman Honors Tutorial
@@ -26,7 +26,7 @@ Prerequisites
 
 Instructor Information
 : [Dr. Perry Alexander][1]
-: Office Hours: {{ site.ohrs }} in 2022 Eaton Hall, or by appointment
+: Office Hours: {{ site.ohrs }} in 3048 Eaton Hall or on zoom or by appointment
 : Office: 2022 Eaton Hall / 208 Nichols Hall 
 : Phone: 785-864-7741 
 : Web: [http://perry.alexander.name][2]
@@ -62,8 +62,7 @@ system.  I will not accept paper listings.
 
 ---- 
 
-All project and homework assignments, exams, solutions and handouts you receive in class are linked to the
-[HNRS 190 homepage][4].  In general, I will not distribute hard copies of assignments in class. All documents will be published using the Adobe PDF standard.
+All project and homework assignments, exams, solutions and handouts you receive in class are linked to the [HNRS 190 homepage][4].  In general, I will not distribute hard copies of assignments in class. All documents will be published using the Adobe PDF standard.
 
 # Classroom Policies
 
@@ -77,10 +76,12 @@ Pretty simple.  Follow them and we'll be great friends!
 1. Don't cheat
 1. Don't tell me what you don't need to know
 
+#### COVID-19
+You must wear a mask in class and practice social distancing.  Failure to do so is considered academic misconduct and I will ask you to leave the classroom.  If you should get sick, please let me know and I will set up a zoom conference you can use to attend class remotely.
+
 #### Class Participation
 
-I do not take attendance in class; however participation in class is
-important to your success, however participation in class is important
+I do not take attendance in class; however participation in class is important
 to its success. How much homework and how rigorously it is graded will
 definitely depend on class participation. Please ask questions and
 participate in class discussions. When assigning final grades,
