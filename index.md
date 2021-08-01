@@ -11,7 +11,7 @@ early days of computing focusing on how computing came to be and
 why. We look at work by the major early computing scholars and put
 their work in the context of World War II.  We also look a that the
 limitations of computing and what we know about what can and cannot be
-computed mechanically.  
+computed mechanically.
 
 # Class Information
 
@@ -25,12 +25,13 @@ Prerequisites
 : Acceptance to the KU Honors Program
 
 Instructor Information
-: [Dr. Perry Alexander][1]
-: Office Hours: {{ site.ohrs }} in 3048 Eaton Hall or on zoom or by appointment
-: Office: 2022 Eaton Hall / 208 Nichols Hall 
+: [Dr. Perry Alexander]({{ site.myurl }})
+: Office Hours: {{ site.ohrs }} in 3048 Eaton Hall or Zoom or by appointment
+: Office: 3048 Eaton Hall / 208 Nichols Hall 
 : Phone: 785-864-7741 
-: Web: [http://perry.alexander.name][2]
-: Email: [palexand@ku.edu][3]
+: Web: [https://perry.alexander.name]({{ site.myurl }})
+: Email: <palexand@ku.edu>
+: Zoom: Please see the course Canvas site for more information.
 
 Textbooks
 : None
@@ -44,9 +45,9 @@ date is a holiday and KU offices are closed, the due date becomes the
 next class period.  Late homework assignments are not accepted.  You
 must turn in 70% of your assignments on time to receive a passing
 grade in the course.  If you have a valid excuse for being late, a new
-due date will be assigned.  
+due date will be assigned.
 
-Please submit your projects and homework using the KU Blackboard
+Please submit your projects and homework using the KU Canvas
 system.  I will not accept paper listings.
 
 ### Project Descriptions
@@ -62,7 +63,11 @@ system.  I will not accept paper listings.
 
 ---- 
 
-All project and homework assignments, exams, solutions and handouts you receive in class are linked to the [HNRS 190 homepage][4].  In general, I will not distribute hard copies of assignments in class. All documents will be published using the Adobe PDF standard.
+All project and homework assignments, exams, solutions and handouts
+you receive in class are linked to the [HNRS 190 homepage]({{ site.url
+}}).  In 
+general, I will not distribute hard copies of assignments in
+class. All documents will be published using the Adobe PDF standard.
 
 # Classroom Policies
 
@@ -76,8 +81,13 @@ Pretty simple.  Follow them and we'll be great friends!
 1. Don't cheat
 1. Don't tell me what you don't need to know
 
-#### COVID-19
-You must wear a mask in class and practice social distancing.  Failure to do so is considered academic misconduct and I will ask you to leave the classroom.  If you should get sick, please let me know and I will set up a zoom conference you can use to attend class remotely.
+#### COVID Accommodations
+
+In the classroom we will follow requirements from The University and
+State.  Currently masks are not required to attend class or office
+hours.  However, if you prefer that I wear a mask during an office
+hours visit, please let me know and I will.  I am also willing to do
+office hours by zoom.  The class will _not_ be available via zoom. 
 
 #### Class Participation
 
@@ -85,7 +95,7 @@ I do not take attendance in class; however participation in class is important
 to its success. How much homework and how rigorously it is graded will
 definitely depend on class participation. Please ask questions and
 participate in class discussions. When assigning final grades,
-borderline cases will be decided based on class participation.  
+borderline cases will be decided based on class participation.
 
 #### Grading Errors
 
@@ -94,7 +104,7 @@ weeks following the date the item is available to see me about
 correcting the problem. Note that this includes the final! After that
 time, your grade is set and will not be changed. I also request that
 you wait 24 hours after an exam is returned before coming to me with
-questions.  
+questions.
 
 #### Curving
 
@@ -113,7 +123,7 @@ of communication.
 
 #### Blog
 
-The course blog is available on the [website][5]. I will post
+The course blog is available on the [website](blog.html). I will post
 late-breaking news about projects, homework and class administration
 on the blog. Check the website and blog frequently, particularly
 around project due dates and exams. 
@@ -130,7 +140,7 @@ hours. If there are exceptions, I will let you know as early as is
 possible. If you have a conflict with my office hours, please make an
 appointment. I have an open door policy, you are free to come by
 whenever you choose. If I am busy, I may ask that you come back later,
-but please don't hesitate to knock! My schedule is available online.  
+but please don't hesitate to knock!
 
 #### Cheating
 
@@ -191,7 +201,8 @@ Classroom tasks are weighted using the following scale
 
 ---- 
 
-The course structure is quite loose and we will tend to go wherever our discussions take us.
+The course structure is quite loose and we will tend to go wherever
+our discussions take us.
 
 * Formal Systems and Hilbert's Problems
 * Propositional and Predicate Calculus
@@ -199,9 +210,3 @@ The course structure is quite loose and we will tend to go wherever our discussi
 * Language and Computing
 * Turing, Turing Machines and Halting
 * Turing and Codebreaking
-
-[1]:	http://perry.alexander.name
-[2]:	http://perry.alexander.name
-[3]:	mailto:palexand@ku.edu
-[4]:	http://perry.alexander.name/hnrs190/
-[5]:	blog.html
