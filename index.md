@@ -79,23 +79,16 @@ Pretty simple.  Follow them and we'll be great friends!
 
 1. Don't whine
 1. Don't cheat
-1. Don't tell me what you don't need to know
+1. Don't be mean
 
 #### COVID Accommodations
 
-In the classroom we will follow requirements from The University and
-State.  Currently masks are not required to attend class or office
-hours.  However, if you prefer that I wear a mask during an office
-hours visit, please let me know and I will.  I am also willing to do
-office hours by zoom.  The class will _not_ be available via zoom. 
+In the classroom we will follow requirements from The University, County and
+State.  Currently, masks are required to attend class.  Not wearing masks in class is considered academic misconduct.  I will not wear a mask while lecturing, but will do so at other times.  I am willing to do office hours visits remotely via zoom if you are concerned about meeting in person.  However, the class will _not_ be available via zoom.  Bottom line is if I am in your presence without a mask and you want me to be masked, please say so.  I will do the same with you. 
 
 #### Class Participation
 
-I do not take attendance in class; however participation in class is important
-to its success. How much homework and how rigorously it is graded will
-definitely depend on class participation. Please ask questions and
-participate in class discussions. When assigning final grades,
-borderline cases will be decided based on class participation.
+I do not take attendance in class. However, participation in class is important to your success and its success.  My classes are highly interactive, please ask questions and participate in class discussions.  Always remember to be kind and respectful of others.
 
 #### Grading Errors
 
@@ -117,9 +110,7 @@ individual graded assignment, lab or exam.
 
 #### Email
 
-I encourage you to use email to contact me. I am logged in whenever I
-am working and check my mail frequently. Email is my preferred means
-of communication. 
+I encourage you to use email to contact me. I am logged in whenever I am working and check my mail frequently. Email is my preferred means of communication. 
 
 #### Blog
 
@@ -128,10 +119,13 @@ late-breaking news about projects, homework and class administration
 on the blog. Check the website and blog frequently, particularly
 around project due dates and exams. 
 
+#### Canvas
+
+KU has switched from Blackboard to Canvas for course management. Currently my plan is to use Canvas like I used Blackboard for grades and project submission.  However, I will be experimenting throughout the semester with some of the new Canvas features.  I will let you know what's up, but count on grades and projects using Canvas.
+
 #### Phone
 
-Feel free to call me in any of my office at any time. I would prefer
-not to be called at home. 
+Feel free to call me at my office at any time.  I will never call you.  I have an irrational hatred for the telephone.
 
 #### Office Hours
 
@@ -144,18 +138,7 @@ but please don't hesitate to knock!
 
 #### Cheating
 
-Academic misconduct of any kind will automatically result in a 0 score
-on the homework, lab, project, or exam in question and your actions
-will be reported to the department chair. Your homework, exams and
-projects must be individually prepared unless otherwise noted. Posting
-your assignments to internet discussion lists is considered academic
-misconduct. Sharing your solutions with others is considered academic
-misconduct. Turning in solutions from previous semesters is considered
-academic misconduct. Paying people to prepare solutions is academic
-misconduct. Automated mechanisms are available for checking the
-originality of source code. Please spend your time trying to solve
-assigned problems rather than trying to get around the system. Don't
-risk it!  
+Academic misconduct of any kind will automatically result in a 0 score on the homework, lab, project, or exam in question and your actions will be reported to the department chair. Your homework, exams and projects must be individually prepared unless otherwise noted. Posting your assignments to internet discussion lists is considered academic misconduct. Sharing your solutions with others is considered academic misconduct. Turning in solutions from previous semesters is considered academic misconduct. Paying people to prepare solutions is academic misconduct. Automated mechanisms are available for checking the originality of source code. I start each semester trusting my students and hope to end each semester trusting my students.  If you violate that trust, I am merciless.  Please spend your time trying to solve assigned problems rather than trying to get around the system. Don't risk it!
 
 #### Excuses
 
