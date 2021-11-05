@@ -1,6 +1,7 @@
 ---
 layout: blog
 category: blog
+use_math: true
 title: Inference Rules
 ---
 
