@@ -30,3 +30,15 @@ $$
 
 Note that $$X \Leftrightarrow Y$$ and $$X = Y$$ are the same thing in
 propositional logic.
+
+### Rules for $$\neg$$
+
+$$
+\frac{X\vdash\mathsf{FALSE}}{\neg X}, \frac{\neg\neg X}{X}
+$$
+
+### Rules for $$\mathsf{FALSE}$$
+
+$$
+\frac{X,\neg X}{\mathsf{FALSE}}
+$$
